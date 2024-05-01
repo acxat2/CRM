@@ -10,6 +10,8 @@
   <li>Изменение информации о существующем клиенте</li>
   <li>Поиск и сортировка</li>
 </ul>
+<img src="https://github.com/acxat2/CRM/blob/master/crm-frontend/img/2024-05-01_05-35-46.png">
+<img src="https://github.com/acxat2/CRM/blob/master/crm-frontend/img/2024-05-01_05-38-02.png">
 <h3>Как запустить</h3>
 <p>Для запуска сервера REST API для базы данных клиентов ознакомтесь с README.md в папке crm-backend</p>
 <p>Для запуска интерфейса откройте папку crm-frontend в редакторе кода и запустите Live-server.</p>
